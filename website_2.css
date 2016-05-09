@@ -1,0 +1,68 @@
+.gray-bg {
+  background-color: gray;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.border {
+  border: dashed 2px black;
+  padding-bottom: 50px;
+}
+.border-left {
+  border-left: solid 4px black;
+  padding-top: 2px;
+}
+
+
+.photo {
+  width: 600px;
+  height: auto;
+  padding-right: 175px;
+}
+
+.half {
+  width: 49%;
+}
+.quarter {
+  width: 20%;
+}
+.menu-font-size {
+  font-size: 22px;
+}
+
+#title {
+  height: 62px;
+  padding-top: 1px;
+  margin-bottom: 1px;
+  font-size: 16px;
+}
+
+#menu {
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 1px;
+}
+
+#about {
+  height: 300px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+h1 {
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.info, span {
+  font-size: 23px;
+}
